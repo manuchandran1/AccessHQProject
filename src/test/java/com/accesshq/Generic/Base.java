@@ -56,7 +56,7 @@ public class Base
 
 		
 		driver.get(utility_Object.ReadingProperties("URL"));
-		driver.manage().window().maximize();
+		//driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(6000, TimeUnit.SECONDS);
 	}
 	

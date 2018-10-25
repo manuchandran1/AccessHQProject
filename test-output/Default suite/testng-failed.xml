@@ -5,7 +5,7 @@
     <classes>
       <class name="com.accesshq.TestScripts.TripPlanner_SearchTrip">
         <methods>
-          <include name="TestPlanner_SearchTripTest" invocation-numbers="0"/>
+          <include name="TestPlanner_SearchTripTest"/>
           <include name="extentReport_Generator"/>
           <include name="LaunchAppliation"/>
           <include name="TearDown"/>

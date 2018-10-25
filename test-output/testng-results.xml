@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2018-10-15T08:58:09Z" name="Suite" finished-at="2018-10-15T08:58:19Z" duration-ms="10121">
+  <suite started-at="2018-10-25T00:46:17Z" name="Default suite" finished-at="2018-10-25T00:46:26Z" duration-ms="9114">
     <groups>
     </groups>
-    <test started-at="2018-10-15T08:58:09Z" name="Test" finished-at="2018-10-15T08:58:19Z" duration-ms="10121">
+    <test started-at="2018-10-25T00:46:17Z" name="Default test" finished-at="2018-10-25T00:46:26Z" duration-ms="9114">
       <class name="com.accesshq.TestScripts.TripPlanner_SearchTrip">
-        <test-method is-config="true" signature="extentReport_Generator()[pri:0, instance:com.accesshq.TestScripts.TripPlanner_SearchTrip@5552768b]" started-at="2018-10-15T08:58:09Z" name="extentReport_Generator" finished-at="2018-10-15T08:58:09Z" duration-ms="234" status="PASS">
+        <test-method is-config="true" signature="extentReport_Generator()[pri:0, instance:com.accesshq.TestScripts.TripPlanner_SearchTrip@5552768b]" started-at="2018-10-25T00:46:17Z" name="extentReport_Generator" finished-at="2018-10-25T00:46:17Z" duration-ms="262" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- extentReport_Generator -->
-        <test-method is-config="true" signature="LaunchAppliation()[pri:0, instance:com.accesshq.TestScripts.TripPlanner_SearchTrip@5552768b]" started-at="2018-10-15T08:58:10Z" name="LaunchAppliation" finished-at="2018-10-15T08:58:15Z" duration-ms="5732" status="PASS">
+        <test-method is-config="true" signature="LaunchAppliation()[pri:0, instance:com.accesshq.TestScripts.TripPlanner_SearchTrip@5552768b]" started-at="2018-10-25T00:46:18Z" name="LaunchAppliation" finished-at="2018-10-25T00:46:22Z" duration-ms="4138" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchAppliation -->
-        <test-method signature="TestPlanner_SearchTripTest(java.util.HashMap)[pri:0, instance:com.accesshq.TestScripts.TripPlanner_SearchTrip@5552768b]" started-at="2018-10-15T08:58:15Z" name="TestPlanner_SearchTripTest" data-provider="DataProvider_TripPlanner" finished-at="2018-10-15T08:58:19Z" duration-ms="3169" status="PASS">
+        <test-method signature="TestPlanner_SearchTripTest(java.util.HashMap)[pri:0, instance:com.accesshq.TestScripts.TripPlanner_SearchTrip@5552768b]" started-at="2018-10-25T00:46:22Z" name="TestPlanner_SearchTripTest" data-provider="DataProvider_TripPlanner" finished-at="2018-10-25T00:46:26Z" duration-ms="3594" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -26,11 +26,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestPlanner_SearchTripTest -->
-        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.accesshq.TestScripts.TripPlanner_SearchTrip@5552768b]" started-at="2018-10-15T08:58:19Z" name="TearDown" finished-at="2018-10-15T08:58:19Z" duration-ms="566" status="PASS">
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.accesshq.TestScripts.TripPlanner_SearchTrip@5552768b]" started-at="2018-10-25T00:46:26Z" name="TearDown" finished-at="2018-10-25T00:46:26Z" duration-ms="647" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
       </class> <!-- com.accesshq.TestScripts.TripPlanner_SearchTrip -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
